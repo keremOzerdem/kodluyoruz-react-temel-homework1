@@ -1,0 +1,16 @@
+{
+  "name": "react-homework1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/app.js",
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "author": "keremOzerdem",
+  "license": "ISC"
+}
